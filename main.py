@@ -12,6 +12,6 @@ def find_anagram(str1, str2):
     else:
         return False
 
-str1 = "secure"
-str2 = "rescue"
+str1 = "least"
+str2 = "steal"
 print(find_anagram(str1,str2))
